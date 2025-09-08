@@ -57,3 +57,4 @@ on your phone connected to the same network.
 - **Render / Railway / PythonAnywhere**: Push repo to GitHub and connect.
 - Add `web: gunicorn app:app` to a `Procfile` and set `MODEL_PATH` to your weights path.
 - For storage of uploads in production, use a temp directory or cloud storage.
+# mushroom-app-starter
