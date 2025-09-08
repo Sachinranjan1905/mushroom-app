@@ -1,9 +1,11 @@
 
 flask==2.3.3
-ultralytics==8.1.0
-torch==2.3.1
-pillow==10.1.0
-gunicorn==21.2.0
+ultralytics==8.0.196
+torch==2.1.2
+torchvision==0.16.2
+pillow
+
+
 
 # If torch doesn't auto-install on your platform, install a CPU build manually from:
 # https://pytorch.org/get-started/locally/
