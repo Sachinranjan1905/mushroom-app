@@ -1,0 +1,146 @@
+{
+  "White Button Mushroom": {
+    "en": {
+      "name": "White Button Mushroom",
+      "short": "Most commonly consumed mushroom worldwide.",
+      "benefits": "Rich in vitamin D, B12, selenium, and antioxidants.",
+      "cultivation": "Cultivated in controlled environments, prefers 18–22°C.",
+      "uses": "Used in curries, soups, salads, and pizzas.",
+      "market_note": "High demand throughout the year due to versatility."
+    },
+    "hi": {
+      "name": "सफेद बटन मशरूम",
+      "short": "दुनिया भर में सबसे अधिक खाया जाने वाला मशरूम।",
+      "benefits": "विटामिन D, B12, सेलेनियम और एंटीऑक्सीडेंट से भरपूर।",
+      "cultivation": "नियंत्रित वातावरण में उगाया जाता है, 18–22°C तापमान उपयुक्त।",
+      "uses": "करी, सूप, सलाद और पिज़्ज़ा में उपयोग।",
+      "market_note": "बहुउपयोगी होने के कारण पूरे साल अधिक मांग।"
+    }
+  },
+  "Oyster Mushroom": {
+    "en": {
+      "name": "Oyster Mushroom",
+      "short": "Fan-shaped edible mushroom with delicate flavor.",
+      "benefits": "Boosts immunity, lowers cholesterol, rich in protein.",
+      "cultivation": "Grows well on straw and agri-waste, requires 20–28°C.",
+      "uses": "Popular in stir-fries, curries, and medicinal extracts.",
+      "market_note": "Highly profitable due to low-cost cultivation."
+    },
+    "hi": {
+      "name": "ऑयस्टर मशरूम",
+      "short": "पंखे के आकार का स्वादिष्ट मशरूम।",
+      "benefits": "प्रतिरक्षा प्रणाली को मजबूत करता है, कोलेस्ट्रॉल कम करता है।",
+      "cultivation": "फूस और कृषि-अवशेष पर आसानी से उगता है, 20–28°C आवश्यक।",
+      "uses": "स्टिर-फ्राई, करी और औषधीय अर्क में लोकप्रिय।",
+      "market_note": "कम लागत वाली खेती के कारण अत्यधिक लाभदायक।"
+    }
+  },
+  "Shiitake Mushroom": {
+    "en": {
+      "name": "Shiitake Mushroom",
+      "short": "Native to East Asia, famous for medicinal properties.",
+      "benefits": "Improves heart health, contains lentinan (anti-cancer).",
+      "cultivation": "Traditionally grown on logs, now also in bags at 20–25°C.",
+      "uses": "Used in soups, broths, stir-fries, and medicine.",
+      "market_note": "Premium mushroom with strong global demand."
+    },
+    "hi": {
+      "name": "शीटाके मशरूम",
+      "short": "पूर्वी एशिया का मशरूम, औषधीय गुणों के लिए प्रसिद्ध।",
+      "benefits": "हृदय स्वास्थ्य में सुधार करता है, लेंटिनन (एंटी-कैंसर) युक्त।",
+      "cultivation": "लकड़ियों पर पारंपरिक रूप से उगाया जाता है, अब बैग में भी।",
+      "uses": "सूप, शोरबा, स्टिर-फ्राई और औषधियों में उपयोग।",
+      "market_note": "वैश्विक स्तर पर प्रीमियम मांग।"
+    }
+  },
+  "Portobello Mushroom": {
+    "en": {
+      "name": "Portobello Mushroom",
+      "short": "Large, mature form of cremini mushroom.",
+      "benefits": "Rich in fiber, antioxidants, and potassium.",
+      "cultivation": "Similar to white button, requires 20–24°C.",
+      "uses": "Grilled as patties, stuffing, soups, and sauces.",
+      "market_note": "Popular in Western cuisine as a meat substitute."
+    },
+    "hi": {
+      "name": "पोर्टोबेलो मशरूम",
+      "short": "बड़ा और परिपक्व क्रीमीनी मशरूम।",
+      "benefits": "फाइबर, एंटीऑक्सीडेंट और पोटैशियम से भरपूर।",
+      "cultivation": "बटन मशरूम जैसी खेती, 20–24°C आवश्यक।",
+      "uses": "ग्रिल, स्टफिंग, सूप और सॉस में प्रयोग।",
+      "market_note": "पश्चिमी भोजन में मीट विकल्प के रूप में लोकप्रिय।"
+    }
+  },
+  "Enoki Mushroom": {
+    "en": {
+      "name": "Enoki Mushroom",
+      "short": "Long, thin mushrooms with tiny caps.",
+      "benefits": "Good for digestion, contains antioxidants.",
+      "cultivation": "Cultivated in bottles, prefers 10–15°C.",
+      "uses": "Widely used in East Asian soups and hotpots.",
+      "market_note": "High-value export mushroom."
+    },
+    "hi": {
+      "name": "एनोकी मशरूम",
+      "short": "लंबे और पतले मशरूम जिनकी छोटी टोपी होती है।",
+      "benefits": "पाचन के लिए अच्छा, एंटीऑक्सीडेंट से भरपूर।",
+      "cultivation": "बोतलों में उगाया जाता है, 10–15°C उपयुक्त।",
+      "uses": "पूर्वी एशियाई सूप और हॉटपॉट में उपयोग।",
+      "market_note": "उच्च मूल्य वाला निर्यात मशरूम।"
+    }
+  },
+  "Morel Mushroom": {
+    "en": {
+      "name": "Morel Mushroom",
+      "short": "Highly prized wild mushroom with honeycomb look.",
+      "benefits": "Rich in iron, vitamin D, antioxidants.",
+      "cultivation": "Rarely cultivated, mostly wild, prefers cool climate.",
+      "uses": "Used in gourmet dishes and expensive delicacies.",
+      "market_note": "Extremely high market price."
+    },
+    "hi": {
+      "name": "मोरेल मशरूम",
+      "short": "मधुमक्खी के छत्ते जैसे दिखने वाला कीमती जंगली मशरूम।",
+      "benefits": "आयरन, विटामिन D और एंटीऑक्सीडेंट से भरपूर।",
+      "cultivation": "अधिकतर जंगली, ठंडा मौसम उपयुक्त।",
+      "uses": "प्रीमियम व्यंजन और महंगे पकवानों में उपयोग।",
+      "market_note": "बेहद ऊंची बाजार कीमत।"
+    }
+  },
+  "Paddy Straw Mushroom": {
+    "en": {
+      "name": "Paddy Straw Mushroom",
+      "short": "Common in Southeast Asia, fast-growing mushroom.",
+      "benefits": "Rich in protein and vitamins.",
+      "cultivation": "Grows on paddy straw, temp 28–35°C.",
+      "uses": "Used in Asian curries, soups, and pickles.",
+      "market_note": "High demand in summer season."
+    },
+    "hi": {
+      "name": "पैडी स्ट्रॉ मशरूम",
+      "short": "दक्षिण-पूर्व एशिया में आम और तेजी से बढ़ने वाला मशरूम।",
+      "benefits": "प्रोटीन और विटामिन से भरपूर।",
+      "cultivation": "धान के फूस पर उगाया जाता है, 28–35°C तापमान आवश्यक।",
+      "uses": "एशियाई करी, सूप और अचार में उपयोग।",
+      "market_note": "गर्मी में अधिक मांग।"
+    }
+  },
+  "Cremini Mushroom": {
+    "en": {
+      "name": "Cremini Mushroom",
+      "short": "Brown variety of Agaricus bisporus.",
+      "benefits": "Good for bone health, rich in selenium.",
+      "cultivation": "Same as button mushroom, prefers 20–25°C.",
+      "uses": "Used in pasta, risotto, and sauces.",
+      "market_note": "Intermediate between button and portobello."
+    },
+    "hi": {
+      "name": "क्रीमीनी मशरूम",
+      "short": "एगारिकस बिस्पोरस का भूरा प्रकार।",
+      "benefits": "हड्डियों के लिए अच्छा, सेलेनियम से भरपूर।",
+      "cultivation": "बटन मशरूम जैसी खेती, 20–25°C उपयुक्त।",
+      "uses": "पास्ता, रिसोट्टो और सॉस में उपयोग।",
+      "market_note": "बटन और पोर्टोबेलो के बीच का प्रकार।"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "label": "white_button_mushrooms",
+    "name_en": "White Button Mushroom",
+    "name_hi": "सफेद बटन मशरूम",
+    "description_en": "White button mushrooms are commonly cultivated and eaten worldwide. They have a mild flavor and are suitable for salads, soups, and cooking.",
+    "description_hi": "सफेद बटन मशरूम आमतौर पर उगाए जाते हैं और विश्व भर में खाए जाते हैं। इनका स्वाद हल्का होता है और ये सलाद, सूप और खाना बनाने के लिए उपयुक्त हैं।",
+    "cultivation_en": "Grows well in composted manure; ideal temperature 20°C; maintain humidity around 90%.",
+    "cultivation_hi": "खमीरयुक्त खाद में अच्छा उगता है; आदर्श तापमान 20°C; नमी लगभग 90% बनाए रखें।",
+    "nutrients": ["Vitamin B2 (Riboflavin)", "Vitamin B3 (Niacin)", "Vitamin B5 (Pantothenic Acid)", "Potassium", "Phosphorus", "Selenium", "Copper"],
+    "price": {"Jan":"160–200","Feb":"150–190","Mar":"140–180","Apr":"130–170","May":"130–160","Jun":"140–170","Jul":"150–180","Aug":"160–200","Sep":"170–210","Oct":"180–220","Nov":"170–210","Dec":"160–200"}
+  },
+  {
+    "label": "oyster_mushroom",
+    "name_en": "Oyster Mushroom",
+    "name_hi": "ऑयस्टर मशरूम",
+    "description_en": "Oyster mushrooms are fast-growing and require humid conditions. They are flavorful and ideal for stir-fries and soups.",
+    "description_hi": "ऑयस्टर मशरूम तेजी से उगते हैं और नमीयुक्त वातावरण पसंद करते हैं। ये स्वादिष्ट होते हैं और स्टिर-फ्राइ और सूप के लिए आदर्श हैं।",
+    "cultivation_en": "Best grown on straw; maintain 85% humidity and temperature 18–24°C.",
+    "cultivation_hi": "सबसे अच्छा भूसे पर उगता है; नमी 85% और तापमान 18–24°C बनाए रखें।",
+    "nutrients": ["Vitamin D", "Vitamin B1 (Thiamine)", "Vitamin B2 (Riboflavin)", "Iron", "Zinc", "Potassium", "Magnesium"],
+    "price": {"Jan":"200–250","Feb":"180–230","Mar":"170–220","Apr":"160–210","May":"150–200","Jun":"160–210","Jul":"170–220","Aug":"180–240","Sep":"190–250","Oct":"200–260","Nov":"190–250","Dec":"180–240"}
+  },
+  {
+    "label": "shiitake_mushroom",
+    "name_en": "Shiitake Mushroom",
+    "name_hi": "शीताके मशरूम",
+    "description_en": "Shiitake mushrooms are highly nutritious and commonly used in Asian cuisine. They have a rich, savory flavor.",
+    "description_hi": "शीताके मशरूम अत्यंत पौष्टिक होते हैं और एशियाई व्यंजनों में आमतौर पर उपयोग किए जाते हैं। इनका स्वाद समृद्ध और स्वादिष्ट होता है।",
+    "cultivation_en": "Grow on hardwood logs; requires 60–70% humidity; temperature 16–22°C.",
+    "cultivation_hi": "कठोर लकड़ी की लकड़ियों पर उगाएँ; नमी 60–70%; तापमान 16–22°C।",
+    "nutrients": ["Vitamin D", "Vitamin B6", "Niacin (B3)", "Copper", "Selenium", "Zinc", "Manganese"],
+    "price": {"Jan":"750–900","Feb":"720–880","Mar":"700–850","Apr":"680–820","May":"650–800","Jun":"670–820","Jul":"700–850","Aug":"720–870","Sep":"740–880","Oct":"760–900","Nov":"740–880","Dec":"730–870"}
+  },
+  {
+    "label": "portobello_mushrooms",
+    "name_en": "Portobello Mushroom",
+    "name_hi": "पोर्टोबेलो मशरूम",
+    "description_en": "Portobello mushrooms are large, meaty mushrooms ideal for grilling or stuffing. They have a robust flavor.",
+    "description_hi": "पोर्टोबेलो मशरूम बड़े और मांसल होते हैं; ग्रिलिंग या स्टफिंग के लिए आदर्श। इनका स्वाद मजबूत होता है।",
+    "cultivation_en": "Cultivated like white button mushrooms but requires slightly more space and larger compost beds.",
+    "cultivation_hi": "सफेद बटन मशरूम की तरह उगाए जाते हैं लेकिन थोड़ी अधिक जगह और बड़े खाद बिस्तरों की आवश्यकता होती है।",
+    "nutrients": ["Vitamin D", "Vitamin B2", "Vitamin B3", "Potassium", "Phosphorus", "Selenium", "Copper"],
+    "price": {"Jan":"280–350","Feb":"300–370","Mar":"300–380","Apr":"310–390","May":"320–400","Jun":"330–420","Jul":"340–430","Aug":"350–440","Sep":"360–450","Oct":"370–460","Nov":"360–440","Dec":"340–420"}
+  },
+  {
+    "label": "enoki_mushroom",
+    "name_en": "Enoki Mushroom",
+    "name_hi": "एनॉकी मशरूम",
+    "description_en": "Enoki mushrooms have long, thin stems and small caps. Popular in soups and salads.",
+    "description_hi": "एनॉकी मशरूम की लम्बी पतली तने और छोटे टोपी होते हैं। सूप और सलाद में लोकप्रिय।",
+    "cultivation_en": "Grows well in low-light and cooler conditions; temperature 10–15°C; maintain high humidity.",
+    "cultivation_hi": "कम रोशनी और ठंडी परिस्थितियों में अच्छा उगता है; तापमान 10–15°C; उच्च नमी बनाए रखें।",
+    "nutrients": ["Vitamin B3 (Niacin)", "Vitamin B5 (Pantothenic Acid)", "Folate", "Phosphorus", "Iron", "Copper"],
+    "price": {"Jan":"950–1200","Feb":"950–1150","Mar":"930–1100","Apr":"900–1050","May":"900–1050","Jun":"920–1100","Jul":"950–1150","Aug":"950–1200","Sep":"960–1200","Oct":"980–1250","Nov":"960–1200","Dec":"950–1200"}
+  },
+  {
+    "label": "morel_mushrooms",
+    "name_en": "Morel Mushroom",
+    "name_hi": "मोरल मशरूम",
+    "description_en": "Morels are rare, highly prized mushrooms with a nutty flavor. Often for gourmet cooking.",
+    "description_hi": "मोरल मशरूम दुर्लभ और बहुत मूल्यवान होते हैं; इनका स्वाद नटी होता है। अक्सर गॉरमेट कुकिंग में इस्तेमाल।",
+    "cultivation_en": "Difficult to cultivate; prefers moist forested areas; temperature 15–20°C.",
+    "cultivation_hi": "उगाना कठिन; नम जंगल क्षेत्रों में पसंद करता है; तापमान 15–20°C।",
+    "nutrients": ["Vitamin D", "Iron", "Phosphorus", "Manganese", "Copper", "Potassium"],
+    "price": {"Jan":"16000–20000","Feb":"15500–19000","Mar":"15000–18500","Apr":"14500–18000","May":"14000–17500","Jun":"14500–18000","Jul":"15000–18500","Aug":"15500–19000","Sep":"16000–20000","Oct":"16500–20500","Nov":"16000–20000","Dec":"15500–19500"}
+  },
+  {
+    "label": "paddystraw_mushroom",
+    "name_en": "Paddy Straw Mushroom",
+    "name_hi": "पैडी स्ट्रॉ मशरूम",
+    "description_en": "Paddy straw mushrooms grow on rice straw and are popular in Asian cuisines.",
+    "description_hi": "पैडी स्ट्रॉ मशरूम चावल की भूसे पर उगते हैं और एशियाई व्यंजनों में लोकप्रिय हैं।",
+    "cultivation_en": "Grow on paddy straw compost; keep 85–90% humidity and 28–32°C temperature.",
+    "cultivation_hi": "चावल की भूसे के खाद पर उगाएँ; 85–90% नमी और 28–32°C तापमान बनाए रखें।",
+    "nutrients": ["Vitamin C", "Vitamin B1", "Vitamin B2", "Phosphorus", "Iron", "Potassium"],
+    "price": {"Jan":"130–170","Feb":"140–180","Mar":"150–200","Apr":"150–200","May":"160–220","Jun":"170–230","Jul":"180–250","Aug":"200–270","Sep":"190–260","Oct":"170–230","Nov":"150–200","Dec":"140–180"}
+  },
+  {
+    "label": "cremini_mushrooms",
+    "name_en": "Cremini Mushroom",
+    "name_hi": "क्रेमिनी मशरूम",
+    "description_en": "Cremini mushrooms are similar to white button mushrooms but with a deeper flavor. Used in various recipes.",
+    "description_hi": "क्रेमिनी मशरूम सफेद बटन मशरूम जैसे होते हैं लेकिन इनका स्वाद गहरा होता है। विभिन्न व्यंजनों में इस्तेमाल।",
+    "cultivation_en": "Grown in composted manure; temperature 18–22°C; maintain humidity 85–90%.",
+    "cultivation_hi": "खमीरयुक्त खाद में उगाए जाते हैं; तापमान 18–22°C; नमी 85–90% बनाए रखें।",
+    "nutrients": ["Vitamin B2", "Vitamin B3", "Vitamin B5", "Phosphorus", "Selenium", "Potassium", "Copper"],
+    "price": {"Jan":"240–320","Feb":"250–330","Mar":"250–340","Apr":"260–350","May":"260–360","Jun":"270–370","Jul":"280–380","Aug":"280–390","Sep":"290–400","Oct":"300–410","Nov":"280–390","Dec":"260–370"}
+  }
+]
