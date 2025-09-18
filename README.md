@@ -18,7 +18,7 @@ A **Flask web app** that:
 
 > Replace the placeholders with actual screenshots or GIFs from your app
 
-![App Home Page](/Users/sachinranjan/mushroom-app-starter/Screenshot 2025-09-18 at 11.24.58 AM.png)  
+![App Home Page](Screenshot 2025-09-18 at 11.24.58 AM.png)  
 ![Mushroom Detection](screenshots/detection.gif)  
 
 ---
