@@ -79,14 +79,14 @@ on your phone connected to the same network.
 - Add `web: gunicorn app:app` to a `Procfile` and set `MODEL_PATH` to your weights path.
 - For storage of uploads in production, use a temp directory or cloud storage.
 ## Project Structure
- /mushroom-web-app
- ├── app.py                 # Main Flask app
- ├── static/                # CSS, JS, images
- ├── templates/             # HTML templates
- ├── mushroom_model.pt      # YOLOv12s weights
- ├── screenshots/           # Demo screenshots / GIFs
- ├── requirements.txt       # Dependencies
- └── README.md              # Project documentation
+ - /mushroom-web-app
+ - ├── app.py                 # Main Flask app
+ - ├── static/                # CSS, JS, images
+ - ├── templates/             # HTML templates
+ - ├── mushroom_model.pt      # YOLOv12s weights
+ - ├── screenshots/           # Demo screenshots / GIFs
+ - ├── requirements.txt       # Dependencies
+ - └── README.md              # Project documentation
 ## Author
 Sachin Ranjan
 B.Tech CSE '28, Quantum University
