@@ -35,9 +35,11 @@ model = None
 if YOLO and os.path.exists(MODEL_PATH):
     try:
         model = YOLO(MODEL_PATH)
-        print("✅ YOLO Model loaded successfully!")
+        model.to("cpu")  # Force CPU to avoid GPU crashes on Render
+        print("✅ YOLO Model loaded successfully on CPU!")
     except Exception as e:
         print("❌ Model loading error:", e)
+
 
 # -------------------- Load JSON --------------------
 mushroom_data = {}
