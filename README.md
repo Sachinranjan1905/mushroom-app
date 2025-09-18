@@ -18,7 +18,7 @@ A **Flask web app** that:
 
 > Replace the placeholders with actual screenshots or GIFs from your app
 
-![App Home Page](screenshots/home.png)  
+![App Home Page](/Users/sachinranjan/mushroom-app-starter/Screenshot 2025-09-18 at 11.24.58 AM.png)  
 ![Mushroom Detection](screenshots/detection.gif)  
 
 ---
@@ -30,9 +30,12 @@ A **Flask web app** that:
 ### 2️⃣ Create & Activate a Virtual Environment
 
 **Windows (PowerShell)**
-```powershell
+# 1️⃣ Create virtual environment
 python -m venv .venv
+
+# 2️⃣ Activate it (PowerShell)
 .venv\Scripts\Activate.ps1
+
 
 
 2) **macOS / Linux**
@@ -76,14 +79,14 @@ on your phone connected to the same network.
 - Add `web: gunicorn app:app` to a `Procfile` and set `MODEL_PATH` to your weights path.
 - For storage of uploads in production, use a temp directory or cloud storage.
 ## Project Structure
-- /mushroom-web-app
-- ├── app.py                 # Main Flask app
-- ├── static/                # CSS, JS, images
-- ├── templates/             # HTML templates
-- ├── mushroom_model.pt      # YOLOv12s weights
-- ├── screenshots/           # Demo screenshots / GIFs
-- ├── requirements.txt       # Dependencies
-- └── README.md              # Project documentation
+ /mushroom-web-app
+ ├── app.py                 # Main Flask app
+ ├── static/                # CSS, JS, images
+ ├── templates/             # HTML templates
+ ├── mushroom_model.pt      # YOLOv12s weights
+ ├── screenshots/           # Demo screenshots / GIFs
+ ├── requirements.txt       # Dependencies
+ └── README.md              # Project documentation
 ## Author
 Sachin Ranjan
 B.Tech CSE '28, Quantum University
