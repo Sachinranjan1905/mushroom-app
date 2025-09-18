@@ -1,23 +1,41 @@
-# Mushroom Classification Web App (Flask)
+# 🍄 Mushroom Classification Web App (Flask)
 
-A simple Flask app that:
-- Lets users upload a mushroom image
-- Runs a trained YOLO model to classify it
-- Shows the **current month's** price range (₹/kg) for 8 mushroom types
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=machinelearning&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/Sachinranjan1905/mushroom-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Sachinranjan1905/mushroom-app?style=social)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## Quick Start
+A **Flask web app** that:  
+- Lets users **upload a mushroom image**  
+- Runs a trained **YOLOv12s model** to classify it  
+- Shows the **current month's price range (₹/kg)** for 8 mushroom types
 
-1) **Install Python 3.10+**
+---
 
-2) **Create & activate a virtual environment**
+## 🔹 Demo Screenshots / GIF
+
+> Replace the placeholders with actual screenshots or GIFs from your app
+
+![App Home Page](screenshots/home.png)  
+![Mushroom Detection](screenshots/detection.gif)  
+
+---
+
+## 🔹 Quick Start
+
+### 1️⃣ Install Python 3.10+
+
+### 2️⃣ Create & Activate a Virtual Environment
 
 **Windows (PowerShell)**
 ```powershell
 python -m venv .venv
 .venv\Scripts\Activate.ps1
-```
 
-**macOS / Linux**
+
+2) **macOS / Linux**
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
@@ -37,12 +55,12 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-Open http://127.0.0.1:5000 in your browser.
+Open http://127.0.0.1:5008 in your browser.
 
 ### Access on your phone (same Wi‑Fi)
 The app already runs with `host=0.0.0.0`. Find your PC's local IP (e.g. `192.168.1.10`) and open:
 ```
-http://192.168.1.10:5000
+http://192.168.1.10:5008
 ```
 on your phone connected to the same network.
 
@@ -57,8 +75,20 @@ on your phone connected to the same network.
 - **Render / Railway / PythonAnywhere**: Push repo to GitHub and connect.
 - Add `web: gunicorn app:app` to a `Procfile` and set `MODEL_PATH` to your weights path.
 - For storage of uploads in production, use a temp directory or cloud storage.
+## Project Structure
+- /mushroom-web-app
+- ├── app.py                 # Main Flask app
+- ├── static/                # CSS, JS, images
+- ├── templates/             # HTML templates
+- ├── mushroom_model.pt      # YOLOv12s weights
+- ├── screenshots/           # Demo screenshots / GIFs
+- ├── requirements.txt       # Dependencies
+- └── README.md              # Project documentation
+## Author
+Sachin Ranjan
+B.Tech CSE '28, Quantum University
+GitHub: Sachinranjan1905
+5⭐ C++ @ HackerRank
+
 # mushroom-app-starter
-# mushroom-app-starter
-# mushroom-app-starter
-# mushroom-app
-# mushroom-app
+

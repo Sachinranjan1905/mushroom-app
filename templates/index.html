@@ -8,7 +8,8 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80") 
+      /* 🌾 Agriculture / Green field background */
+      background: url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80") 
                   no-repeat center center fixed;
       background-size: cover;
       color: #fff;
@@ -20,7 +21,6 @@
       padding: 0;
     }
 
-    /* 🌾 Banner/Header */
     .banner {
       background: linear-gradient(90deg, #388e3c, #66bb6a);
       color: white;
@@ -79,10 +79,17 @@
     button:hover, input[type="submit"]:hover {
       background: #2e7d32;
     }
+
+    /* Footer credit */
+    .credit {
+      text-align: center;
+      margin-top: 20px;
+      color: #2e7d32;
+      font-weight: bold;
+    }
   </style>
 </head>
 <body>
-  <!-- 🌾 Banner -->
   <div class="banner">
     <img src="https://cdn-icons-png.flaticon.com/512/3076/3076590.png" alt="Farm Icon">
     Mushroom Detection & Agriculture Information
@@ -128,6 +135,9 @@
         <p><b>Price:</b> ₹ {{ price }}</p>
       </div>
       {% endif %}
+
+      <!-- Footer credit -->
+      <p class="credit">Project by Sachin Ranjan under mentorship of Vivek Kumar Sir👨‍🏫</p>
     </div>
   </div>
 </body>
